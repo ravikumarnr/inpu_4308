@@ -1,0 +1,7 @@
+{
+  "name": "inpu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
